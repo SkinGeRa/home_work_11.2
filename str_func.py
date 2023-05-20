@@ -6,3 +6,4 @@ def upper_text(value):
 def title_text(value):
     """Функция делает заглавными первые буквы каждого слова в строке"""
     return value.title()
+
